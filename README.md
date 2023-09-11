@@ -1,4 +1,4 @@
-# Contemporary Issues In Data
+# Which database schema is better?
 In this document, I discuss two articles about the performance, scalability, and reliability of SQL vs. no-SQL databases. Note that while both of these articles will have relevant points, the most optimal type of database will depend on the specific use case and type of data being stored. 
 
 
